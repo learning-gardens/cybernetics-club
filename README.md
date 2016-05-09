@@ -1,1 +1,0 @@
-# cybernetics-club
