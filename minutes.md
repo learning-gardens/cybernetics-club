@@ -1,3 +1,11 @@
+May 18 2016
+
+—
+
+Session One
+
+—
+
 ##### Wartime as accelerator for technology
 
 Capitalism as new driver for pushing tech forward
