@@ -113,11 +113,9 @@ Fullmetal Alchemist
 	- Employee Handbook
 	- Hats as a method of garnering money
 	- Agile Manufacturing: Toyota Model that Superceded the Ford model Kanban
-	- 
 
 ##### We Work, We live
 
 - Lease stability
 - WeLive/WeWork
 	- Voting via app
-	- 
