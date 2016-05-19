@@ -16,7 +16,7 @@ FindFace — Russian facebook clone
 - Art project to find people’s faces
 - CIA funding ranch
 
-##### Left/Right Accelertionism
+##### Left/Right Accelerationism
 
 Left — using tech to breach gender barriers, cyborgs as freeing mechanisms
 
@@ -27,7 +27,7 @@ Right — Tools becoming end of themselves
 - Reading insights — Francis
 - Primary Source: Neon Genesis Evangelion    
 - AT fields
-- Human INstrumentality Project
+- Human Instrumentality Project
 
 Google I/O
 - Virtual Reality as democratically-enabled reality breaker
@@ -36,7 +36,7 @@ Google I/O
 - VR as Programmable Psychadelics
 - VR as life-extension, punishment, cheap method of imprisonment
 
-The human Experiment — Meta HUmans
+The Human Experiment — Meta Humans
 - “AI Psychology” as a new field
 - How might AI be investigated when we can’t even look into our own brains?
 - AI vs. IA
@@ -59,7 +59,7 @@ Venavir Bush
 ‘Dark Enlightenment’
 - Menicious Moldbug
 - Human Biodiversity
-- Crooked Timbers
+- Crooked Timber post: libertarian as a form of feudalism http://crookedtimber.org/2010/04/15/libertarianism-property-rights-and-self-ownership/
 - Information garnering
 
 - Soylent
@@ -89,7 +89,7 @@ Fullmetal Alchemist
 - We build abstractions/laws on top of one another
 - If you work within these confines, you can create amazing things
 - ‘Fundamentals of Circuits’ (Ask Denis to link)
-- ‘SCIP’  
+- ‘SICP’: recursive abstractions of machine/software/machine/... https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-30.html#%_chap_5  
 
 ##### Bitcoin/Blockchain
 
@@ -104,7 +104,7 @@ Fullmetal Alchemist
 
 ##### ’The Gift’ Marcel Mauss
 
-- Gift-giving books
+- Gift economies in pre-money societies
 - The reason why you see someone again
 	- If someone gives you a give of 10$, you have to raise them 15$ or else you never want to see them again
 - Dan Arielli ‘Thinking fast and slow”
