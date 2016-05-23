@@ -1,8 +1,10 @@
-Resources
+General Resources
 
 —
 
-"Online-only resources"
+The materials here are general resources that were not assigned for a session.
+
+Please place any general reading, watching, etc. in here.
 
 —
 
