@@ -4,13 +4,17 @@ Schedule
 
 Our current reading/discussion plan
 
-—
+-
 
-I'll figure out how to give this a nice + clear layout later.
+##### Session 1
+###### 18 May 2016
 
----
+- pages 65-72 of [The New Media Reader](https://github.com/sunday-school/cybernetics-club/blob/master/reading/session-1/NMR_65-72.pdf): Men, Machines, and the World About.
 
-## Session 2
+-
+
+##### Session 2
+###### TBA
 
 - The first chapter of Wiener's Cybernetics, called [Newtonian and Bergsonian Time](reading/session-2/Norbert_Wiener_Cybernetics.pdf) seems foundational for whatever we go on to read.
 
