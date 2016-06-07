@@ -14,7 +14,7 @@ Our current reading/discussion plan
 -
 
 ##### Session 2
-###### TBA
+###### 21 June 2016
 
 - The first chapter of Wiener's Cybernetics, called [Newtonian and Bergsonian Time](reading/session-2/Norbert_Wiener_Cybernetics.pdf) seems foundational for whatever we go on to read.
 
