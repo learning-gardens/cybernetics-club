@@ -29,3 +29,11 @@ Please place any general reading, watching, etc. in here.
 ##### Videos
 
 0. https://www.youtube.com/watch?v=AnTwZVviXyY
+
+—
+
+##### Other
+
+0. [Michael Yap: Cybernetics and the Foundations of System Design](https://docs.google.com/document/d/1m82iJqnZc8BPhA8rNkanTxodyhKI0-wLtfKdLvhNSto/edit#heading=h.2zurizhlxl0v)
+    - Classes – https://www.dropbox.com/sh/wcflxmjyr1giwgs/AABwhkyu73lNKCHvPfhpYU6Da?dl=0
+    - Readings — https://www.dropbox.com/sh/rpz9oss7xb6afvj/AAB1RaiM3aSbcXV75RzcDFCaa?dl=0
