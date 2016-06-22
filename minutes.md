@@ -147,7 +147,7 @@ Fullmetal Alchemist
 
 Dan: 
 - Cedric Price — Architect / Cybernetist
-- Gordon Pask(?) — Architect maybe
+- Gordon Pask — Architect maybe
 
 ### Session 2 Reading Context
 
@@ -169,17 +169,17 @@ Norman Weiner: Introduction to Cyubernetics
 	- Probabilistically, it’s more likely that a given system will be messier vs. cleaner.
 - Two Joint Pendulum problem:
 	- If you swing it, it’s impossible to predict where it will go
-	- Three planet system: It’s impossible to predict how the three will interact with one another.
+	- Three body problem: It’s impossible to predict how the three will interact with one another.
 - Classic Mechanics deals with large bodies, is (largely) considered incompatible with Quantum mechanics
 - Power Model vs. Communicative Model of Energy
 	- A letter contains so much more than the ‘sum of its parts’
 	- Organisms fall into various camps that are able to regulate themselves in various ways
 	- Adapters, Regulators, Exo-regulators
 - Directionality of time:
-		- Communicating with someone existing in reverse time would be impossible.
-		- Why are electrons all the same/similar?:
-			- It’s one electron appearing all throughout time
-			- Dan will find the link to that later ^
+    - Communicating with someone existing in reverse time would be impossible.
+    - [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
+        - John Wheeler to Richard Feynman: Why are electrons all the same/similar?:
+        - It’s one electron appearing all throughout time
 
 ##### To Our Friends:
 
@@ -241,14 +241,14 @@ Norman Weiner: Introduction to Cyubernetics
 	- LAPKA: Scientific instruments made to be beautiful, accessible, easy to use.
 - Cybernetics and Reproducability — we should learn about this
 - The Construction of the human body as the whole of many small parts
-- Jaren/m Laneer(?)
+- Jaron Lanier
 	- Coined VR
 	- weirdo
 	- lives in Silicon Valley, but is definitely an outsider
 - You don’t think what you can’t communicate with ‘SMS’
 - Facebook ‘Reactions’ as building the desire path, but still being fundamentally constrained
 - Heidegger 
-- Sadie Smith
+- Zadie Smith
 - Which communication is *only* possible via technology?
 - Was the written word a reductive technoology?
 - THe single letter K implies so much (via question-asking), who wrote it, did two people write it, what was excluded with the inscribing of the letter, etc.
@@ -265,7 +265,6 @@ Norman Weiner: Introduction to Cyubernetics
 - Afro-futurism
 - Le Corbusier: The Open Hand, scan in the article aboue chandrigar, planned cities, utopianism
 
-—
 
 - The DAO
 	- “Decentralised Autonomus Organization”
@@ -276,8 +275,8 @@ Norman Weiner: Introduction to Cyubernetics
 	- Distinction between meatspace and cyberspace is still rampant in cryptocurrency world
 	- The velvet monkeywrench — John Muir
 		- Utopian Book 
-	- Asimov literature
-	- Utilitarianism, Robot anthropology
+	- Asimov literature, Robopsychology in [I, Robot](https://en.wikipedia.org/wiki/I,_Robot)
+	- Utilitarianism
 	- If a car needs to choose between killing its pilot vs. 10 people, what does it do?
 		- it scans you for your social network profiles, gauges social capital 
 	- Trolley Car Memes
