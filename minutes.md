@@ -138,8 +138,8 @@ Fullmetal Alchemist
 
 —
 
-#### Session 2
-###### 2016 06 21
+#### Session Two
+###### 2016 June 21
 
 —
 
