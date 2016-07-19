@@ -6,6 +6,7 @@ Index
 
 1. [Session One](#session-one)
 2. [Session Two](#session-two)
+3. [Session Three](#session-three)
 
 —
 
@@ -286,5 +287,11 @@ Norman Weiner: Introduction to Cyubernetics
 		- “Pragmatic ALtruism”
 	- Network effect and Scale 
 
+—
 
-	
+#### Session Two
+###### July 19 2016
+
+—
+
+##### First topic goes here
