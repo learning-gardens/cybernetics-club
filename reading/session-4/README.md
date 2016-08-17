@@ -1,0 +1,7 @@
+# Session 4 Readings 
+- [On Being the Right Size, J. B. S. Haldane](http://irl.cs.ucla.edu/papers/right-size.html)
+- [On Actor-Network Theory, Bruno Latour](http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf)
+- [Network Externality: An Uncommon Tragedy](https://www.utdallas.edu/~liebowit/jep.html), by Liebowitz and Margolis. On feedback, network effects.
+- Chapter 14 in [The Blackwell Guide to the Philosophy of Computing and Information](https://sites.sas.upenn.edu/sites/default/files/behav-ethics/files/the_20blackwell_20guide_20to_20the_20philosophy_20of_20computing_20and_20information_luciano_20floridi_20blackwell_202004_20376s.pdf). A zoomed-out history of cybernetics and its relationships with other fields. Provided useful context for me toward a more concrete definition of cybernetics, and an understanding of how cybernetic approaches have changed over time in step with the types of problems they're applied to.
+- [Management in Cybernetic Terms](http://unesdoc.unesco.org/images/0000/000022/002251eo.pdf) by Stafford Beer (chapter 9 in this link). Gets into second-order cybernetics, variety/complexity, and the management/steering of systems.
+- More from Beer: [Designing Freedom](http://ada.evergreen.edu/~arunc/texts/cybernetics/beer/book.pdf). Lecture series with fun illustrations 👶. Provides some color on Cybersyn and Beer's thoughts around how to structure institutions. Not sure if this is a bit too much to read?
