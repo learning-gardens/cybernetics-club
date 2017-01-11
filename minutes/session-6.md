@@ -1,6 +1,6 @@
 # Cybernetics Club — Session 6
 
-## Guest speaker: Michael Yap, UX Strategist at Etsy (@michaelryap)[https://github.com/michaelryap]
+## Guest speaker: Michael Yap, UX Strategist at Etsy [@michaelryap](https://github.com/michaelryap)
 
 ### Lecture Notes
 
@@ -12,7 +12,7 @@ Inspiration for the talk:
 
 But together they have worked on a body of worked that has coalesced and they teach at Stanford under the Human Computer Interaction program.	
 
-###### SLIDES 3-5]	
+###### [SLIDES 3-5]	
 My work: thinking of product design as a cycle of [missed]
 Now my goal is to think 3-5 years into the future. So now my practice is more experimental: interested in design fiction, stuff like Hugh’s work. 
 
