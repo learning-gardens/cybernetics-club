@@ -1,6 +1,6 @@
 # Cybernetics Club — Session 6
 
-## Guest speaker: Michael Yap, UX Strategist at Etsy [https://github.com/michaelryap](@michaelryap)
+## Guest speaker: Michael Yap, UX Strategist at Etsy (@michaelryap)[https://github.com/michaelryap]
 
 ### Lecture Notes
 
