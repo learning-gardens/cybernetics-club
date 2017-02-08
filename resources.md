@@ -14,6 +14,7 @@ Please place any general reading, watching, etc. in here.
 1. https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/
 2. https://en.wikipedia.org/wiki/Technics_and_Civilization
 3. https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
+4. https://monoskop.org/Cybernetics
 
 —
 
@@ -39,3 +40,4 @@ Please place any general reading, watching, etc. in here.
     - Readings — https://www.dropbox.com/sh/rpz9oss7xb6afvj/AAB1RaiM3aSbcXV75RzcDFCaa?dl=0
 1. [Paul Pangaro: A Definition of Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
 2. [Biocost: An economics of human behavior](http://pangaro.com/sva2010/Biocost_091105.pdf)
+3. [Peter Sachs Collopy: History of Cybernetics Bibliography](https://collopy.net/projects/bibliography.html)
