@@ -1,0 +1,71 @@
+- Valve: Half Life 3 is such a big property that no one wants to touch it
+- w/o structure, affective labor goes unacknowledged or exploited
+- in a structureless org, the faster you can read emails, the more you know (e.g. institutional knowledge which is not codified accessibly for others), which generates a power imbalance, i.e. people come to you for that knowledge
+- loomio.org
+- informal structures can become formalized or have formal rules
+    - e.g. parties should not exist, but they do; they get so large that they need formal structure
+- in Valve's handbook: "you don't need to report to the founder" - maybe not literally, but in many senses you do
+    - also, at Valve, no one can appoint themselves the new founder
+- can a model like Valve's scale?
+- Peter Principle: you get promoted to the level of your incompetence
+- another case: Mondragon: worker-owned co-op, but not cooperatively run
+- Alcoholics Anonymous as the most successful anarchist org
+- Software production may be more amenable to Valve's structure
+    - decisions made in non-software contexts have a more locked-in, cascading effect, so less flexibility
+    - how does the type of work impose a particular organizational structure?
+        - perhaps operates more as a feedback loop
+- constrast Valve's structure to military structure
+- Valve is now mostly an e-commerce platform
+    - they haven't really produced anything new (DOTA2 was an already-existing Warcraft mod)
+- Valve's claim is to have no management
+    - but management can be thought of as a service to an employee (e.g. handling stuff you'd rather not deal with)
+- Valve's handbook: "demonstrate your value to your peers"; appeal to neoliberal values, "constant job interview"
+- way of evening out/formalizing affective labor: buddy system, where one person regularly listens to another (the relationship is not necessarily reciprocated, that person may be the listening buddy of someone else)
+- manager cares for the collective, protects people from going at each other
+- so by devaluing management, Valve is overlooking the existence (it happens in some form whether or not you formally have management) and value of this labor
+- we reward leadership/promotions to people based on skills that are recognized, which does not typically include affective ones
+- "management" vs "leadership": a leader is just as accountable as a manager, but when something goes wrong, a manager can assign blame and fire individuals; with a leader, everyone goes down together
+- GabeN is the public face of Valve; when employees fail he bears the brunt; e.g. Counter-Strike gambling scandal
+- Ringlemann effect: problem of scale
+- Bannot Gang: bank robbers who formed new teams for each robbery
+- willing to let the group die when it has served its purpose or outlived its need
+- Steam is very buggy
+- when building a product, floating around between projects/teams is more ok than when maintaining an existing product; where you need a more static/committed team
+- "bad cultural fit", i.e. are they tolerable? But also used to justify decisions made for other reasons, sort of a catch-all vague excuse
+- structure is more than just who takes charge but also who is accountable
+- transparency w/in structure is another question
+- by managing, are you implying that you "know better" than if they were to be left to their own devices?
+- people either want to:
+    - create
+    - destroy
+    - protect/preserve (the most devalued of the three)
+- "organization" vs "community"
+    - organization = 2+ people with a unified goal?
+- goals, roles, rules vs norms (which have fluidity, fuzziness), shared understanding
+    - when and how are rules applied? when/why are exceptions made?
+- if companies have outings which are meant to simulate flatness (e.g. escape the room or w/e), are there hierarchy roleplay exercises for flat orgs?
+    - exercise classes as an example
+- w/o structure, do we default to the last structure we were immersed in (e.g. high school)?
+    - or do we default to existing broader traditions
+- horizontal organizations have an interest in preventing the consolidation of power as it is a threat to the horizontal structure
+- who's job is it to police, check, etc?
+- to chaos or not to chaos, i.e. are people fundamentally good or bad?
+- Harkness table experiment
+    - annotating the table to map conversation dynamics
+    - see also: equity maps
+    - knowledge that the Harkness system is in use is affecting the conversation!
+- in parliamentary procedure, time is strict
+- dynamics influenced by the purpose of the organization
+- creating a power structure to pursue a goal, but that goal changes, and it may be difficult to adapt/revise the structure
+- objective of success vs objective of merely not to fail
+- Chinese govt's preference for planning (fear of "chaos" of the Cultural Revolution)
+- scale may be a question of commonality; i.e. at small scales, enough common ground b/w people for cohesion; but at the scale of a society...
+- Obama/Biden military meeting dynamic: people would not give their honest opinion of anything Obama said, so if Obama wanted to know what people thought about something, he'd get Biden to say it so people would respond more honestly
+- social game of seating people (e.g. at a wedding!)
+- using physical layout to transfer information
+- space is limited, e.g. not everyone can roll their desks together. same w/ time
+- no one wants to do maintenance
+    - need to pamper maintainers
+    - "people love to be a ribbon cutter but they don't like to maintain things"
+    - fixing/repairing is not as valued in general, culturally
+    - maintenance subsumed into corporate supply chains (removing "right to repair")
