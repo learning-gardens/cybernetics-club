@@ -1,3 +1,5 @@
+![](cc.png)
+
 **Cybernetics Club** is a learning group organized around the legacy of cybernetics and all the fields it has touched.
 
 "Cybernetics" is difficult to define: an ambitious interdisciplinary science that sought to connect fields as disparate as astrophysics, biology, sociology, computer science, and more by considering systems, and the control and communication that run within them, as the objects of study. As a practice, cybernetics is a victim of its own success -- it is renown has faded, but its ideas have dissolved into the disciplines it aimed to unite, or seeded entirely new ones: information science, systems biology, and more.
