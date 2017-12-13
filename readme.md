@@ -35,6 +35,7 @@ Past sessions:
   9. [Organizational Cybernetics](https://www.are.na/francis-tseng/cc-9-organizational-cybernetics)
   10. [Affect Theory & Shame](https://www.are.na/rachel-rosenfelt/affect-theory-shame-cybernetics-final-readings) (w/ [Rachel Rosenfelt](https://twitter.com/rachelrosenfelt))
   11. [Cybernetics & Architecture (Intro)](https://www.are.na/dan-taeyoung/cybernetics-and-architecture-intro) (w/ [Dan Taeyoung](https://twitter.com/dantaeyoung), [David Hecht](https://twitter.com/wileycount), and [Austin Smith](https://twitter.com/_newcubes_))
+  12. [Cyber-Systemic Theories of Change](https://www.are.na/howard-silverman/cyber-systemic-theories-of-change) (w/ [Howard Silverman](http://www.solvingforpattern.org/))
 
 Have an idea for a future session? [Add it here!](https://docs.google.com/document/d/18osKDgTjs2UYf_EEIT-Ee06ZjugYp-yG5LdqLiY_EVw/edit)
 
